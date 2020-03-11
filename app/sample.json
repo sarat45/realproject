@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "id":1,
+            "name": "Nelson Mandela",
+            "email": "nelson@gmail.com"
+        },
+        {
+            "id":2,
+            "name": "Walt Disney",
+            "email": "walt@gmail.com"
+        },
+        {
+            "id":3,
+            "name": "Steve Jobs",
+            "email": "steve@gmail.com"
+        }
+        
+    ]
+}
